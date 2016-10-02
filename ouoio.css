@@ -1,0 +1,78 @@
+p {
+	margin-bottom:15px;
+	line-height:1.5;
+}
+a {
+	color:#f06060;
+	-webkit-transition:all 0.4s ease-in-out;
+	-moz-transition:all 0.4s ease-in-out;
+	-ms-transition:all 0.4s ease-in-out;
+	-o-transition:all 0.4s ease-in-out;
+}
+a:hover {
+	text-decoration:underline;
+	color:#ec3131;
+}
+.btn,a.btn {
+	-webkit-transition:all 0.4s ease-in-out;
+	-moz-transition:all 0.4s ease-in-out;
+	-ms-transition:all 0.4s ease-in-out;
+	-o-transition:all 0.4s ease-in-out;
+	font-weight:bold;
+}
+.btn .fa,a.btn .fa {
+	color:#fff;
+	margin-right:5px;
+}
+a.btn-cta,.btn-cta {
+	padding:8px 30px;
+}
+a.btn-cta-primary,.btn-cta-primary {
+	background:#f06060;
+	border:2px solid #f06060;
+	color:#fff;
+}
+a.btn-cta-primary:hover,.btn-cta-primary:hover {
+	background:#ee4949;
+	border:2px solid #ee4949;
+	color:#fff;
+}
+a.btn-cta-secondary,.btn-cta-secondary {
+	background:none;
+	border:2px solid #f06060;
+	color:#f06060;
+}
+a.btn-cta-secondary:hover,.btn-cta-secondary:hover {
+	background:#f06060;
+	border:2px solid #f06060;
+	color:#fff;
+}
+a.btn-ghost,.btn-ghost {
+	background:none;
+	border:1px solid #fff;
+	color:#fff!important;
+	padding:8px 20px;
+	vertical-align:middle;
+}
+a.btn-ghost:hover,.btn-ghost:hover {
+	background:#4a6781;
+	border:1px solid #4a6781;
+	color:#fff;
+}
+a.btn-ghost .fa,.btn-ghost .fa {
+	margin-right:10px;
+	font-size:22px;
+}
+a.btn-ghost .text,.btn-ghost .text {
+	position:relative;
+	top:-2px;
+}
+ .wsite-button, .wsite-editor .wsite-button { display: inline-block; height: auto; padding: 0; background: none; }
+ .wsite-button:focus, .wsite-editor .wsite-button:focus { outline: none; }
+ .wsite-button .wsite-button-inner, .wsite-editor .wsite-button .wsite-button-inner { display: inline-block; height: auto; padding: 8px 16px; background: #c4c4c4; color: white !important; border: 2px solid #c4c4c4; border-radius: 2px; letter-spacing: 0.05em; text-transform: capitalize; white-space: normal; font-family: 'Lato', sans-serif; font-size: 14px; font-weight: 400; line-height: normal; -webkit-transition: all 500ms ease; -moz-transition: all 500ms ease; -ms-transition: all 500ms ease; -o-transition: all 500ms ease; transition: all 500ms ease; }
+ .wsite-button-large, .wsite-editor .wsite-button-large { display: inline-block; height: auto; padding: 0; background: none; -webkit-transition: all 300ms ease; -moz-transition: all 300ms ease; -ms-transition: all 300ms ease; -o-transition: all 300ms ease; transition: all 300ms ease; }
+ .wsite-button-large .wsite-button-inner, .wsite-editor .wsite-button-large .wsite-button-inner { display: inline-block; height: auto; padding: 12px 24px; background: #c4c4c4; color: white !important; border: 2px solid #c4c4c4; border-radius: 2px; letter-spacing: 0.05em; text-transform: capitalize; white-space: normal; font-family: 'Lato', sans-serif; font-size: 16px; font-weight: 400; line-height: normal; -webkit-transition: all 500ms ease; -moz-transition: all 500ms ease; -ms-transition: all 500ms ease; -o-transition: all 500ms ease; transition: all 500ms ease; }
+ .wsite-button:hover .wsite-button-inner, .wsite-button-large:hover .wsite-button-inner { background: #b8b8b8; color: white !important; border: 2px solid #b8b8b8; }
+ .wsite-button-highlight, .wsite-button-large.wsite-button-highlight, .wsite-editor .wsite-button-highlight, .wsite-editor .wsite-button-large.wsite-button-highlight { background: none; }
+ .wsite-button-highlight .wsite-button-inner, .wsite-button-large.wsite-button-highlight .wsite-button-inner, .wsite-editor .wsite-button-highlight .wsite-button-inner, .wsite-editor .wsite-button-large.wsite-button-highlight .wsite-button-inner { background: #388070; color: white !important; border: 2px solid #388070; -webkit-transition: all 700ms ease; -moz-transition: all 700ms ease; -ms-transition: all 700ms ease; -o-transition: all 700ms ease; transition: all 700ms ease; }
+ .wsite-button-highlight:hover .wsite-button-inner, .wsite-button-large.wsite-button-highlight:hover .wsite-button-inner { background: transparent; color: #388070 !important; border: 2px solid #388070; }
